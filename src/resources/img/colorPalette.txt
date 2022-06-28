@@ -1,0 +1,4 @@
+LOGO COLORS:
+  Dark Green:#20b2a8
+  Light Green:#5bf6d5
+  Grey: #535e6d

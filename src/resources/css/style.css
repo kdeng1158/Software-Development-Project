@@ -1,0 +1,462 @@
+
+/*BODY*/
+body{
+	font-family:'Gudea', sans-serif;
+    font-style: 'normal';
+    font-weight: 'boldeer';
+    word-wrap:break-word;
+}
+/*PROFILE CSS*/
+#profile_container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin: 20px auto;
+  background-color: rgb(235, 235, 235);
+  border-radius: 20px;
+}
+
+#top_part{
+  height: 90%;
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+}
+
+#img_profile{
+  width: 30%;
+  height: 85%;
+  margin: auto 0px;
+  display: flex;
+}
+
+#profile{
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 0px auto;
+}
+#prof{
+  background-color: white;
+}
+#profile_info{
+	width: 45%;
+  margin: 10px auto;
+  background-color: white;
+  text-align:left;
+  padding:20px;
+}
+.btn{
+  background-color: #20B2A8;
+  border: 2px #20B2A8 solid;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+  color:white;
+}
+
+#bottom_part{
+  width: 100%;
+  margin: 0px auto 20px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 60px;
+}
+
+#change_profile{
+  width: 30%;
+  padding: 5px 0px;
+  text-align: center;
+  background-color: #20B2A8;
+  border-radius: 15px;
+  margin: 0px auto;
+  cursor: pointer;
+  transition: 0.4s;
+}
+.button_profile{
+  background-color: #20B2A8;
+  border: none;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.4s;
+}
+.yes_button {
+  background-color: #FF5A78;
+  border: none;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.4s;
+
+}
+.no_button{
+  background-color: rgb(235, 235, 235);
+  border: none;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+  color: black;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.4s;
+}
+
+
+#change_profile_container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 650px;
+  border-radius: 20px;
+}
+
+.my_profile_info{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#change_image{
+  width: 150px;
+  height: 150px;
+  margin: auto 0px;
+  display: flex;
+}
+
+#my_profile_avatar{
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 0px auto;
+}
+
+#file_avatar_change{
+  margin: 1% 0;
+}
+
+.my_profile_info img{
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.profile_form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2%;
+  height: 60%;
+}
+
+.profile_form button{
+  width: 80%;
+  height: 15%;
+  padding: 10px 0px;
+  font-size: 12px;
+  color: #FFFFFF;
+  background-color: #20B2A8;
+  cursor: pointer;
+  border-radius: 15px;
+  margin: 1% 0;
+}
+
+.profile_form input[type="text"]{
+  margin: 0px auto 15px auto;
+  width: 80%;
+  padding: 5px;
+  box-sizing: border-box;
+  background-color: #F4F4F4;
+  border-radius: 10px;
+  font-size: 12px;
+}
+
+.profile_form textarea {
+  resize: none;
+  margin: 0px auto 15px auto;
+  width: 80%;
+  padding: 5px;
+  box-sizing: border-box;
+  background-color: #F4F4F4;
+  border-radius: 10px;
+  font-size: 12px;
+}
+
+
+
+/* Actual white pop up that contains all the content of the different popups*/
+
+#change_profile_container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 650px;
+  border-radius: 20px;
+}
+/*CHANGE PROFILE */
+/*##CHANGE PROFILE POPUP##*/
+#profile_info{
+  width: 70%;
+  height: 95%;
+  margin: auto 0px;
+  background-color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3%;
+  border-radius: 20px;
+}
+#change_profile_container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 650px;
+  border-radius: 20px;
+}
+
+.my_profile_info{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#change_image{
+  width: 150px;
+  height: 150px;
+  margin: auto 0px;
+  display: flex;
+}
+
+#my_profile_avatar{
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 0px auto;
+}
+
+#file_avatar_change{
+  margin: 1% 0;
+}
+
+.my_profile_info img{
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.profile_form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.profile_form button{
+  background-color: #20B2A8;
+  border: none;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.4s;
+  font-size: 12px;
+}
+
+.profile_form input[type="text"]{
+  background-color: rgb(235, 235, 235);
+  border: none;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+
+.profile_form textarea {
+  resize: none;
+  margin: 0px auto 15px auto;
+  width: 80%;
+  padding: 5px;
+  box-sizing: border-box;
+  background-color: #F4F4F4;
+  border-radius: 10px;
+  font-size: 12px;
+}
+
+/*FOR NAVBAR*/
+.ml-auto .dropdown-menu {
+        left: auto;
+        right: 0px;
+        text-align:center;
+        background-color:#20B2A8;
+    }
+.button{
+          height:60px;
+          width: 60px;
+      }
+.btn{
+          background-color:#20B2A8;
+          border:none;
+          width: 100%;
+          display: block;
+          margin: 0 auto;
+      }
+      .navbar-toggler-icon{
+          font-size: 1.75em;
+      }
+      .header{
+          text-align:center;
+      }
+      .thead{
+          background-color:#20B2A8;
+          color: white;
+          font-size:larger;
+      }
+      .table{
+          text-align:center;
+      }
+      .icon-bar {
+          width: 90px; /* Set a specific width */   
+          background-color: #535e6d; /* Dark-grey background */
+      }
+      .icon-bar a {
+        display: block; /* Make the links appear below each other instead of side-by-side */
+        text-align: center; /* Center-align text */
+        padding: 16px; /* Add some padding */
+        transition: all 0.3s ease; /* Add transition for hover effects */
+        color: white; /* White text color */
+        font-size: 36px; /* Increased font-size */
+      }
+      .icon-bar a:hover {
+        background-color: grey;
+    }
+
+@media screen and (max-width: 750px) {
+  #profile_info{
+    flex-direction: column;
+  }
+  #basic_info{
+    width: 90%;
+  }
+  #additional_info{
+    width: 90%;
+  }
+  #change_profile{
+    margin-top: 10px;
+  }
+
+  #generic_content{
+    width: 400px;
+  }
+  #generic_top_part{
+    margin: 10px 0px;
+    height: 40%;
+  }
+  #generic_bottom_part{
+    height: 40%;
+    width: 90%;
+  }
+  #generic_img{
+    height: 55%;
+  }
+  #generic_info{
+    height: 30%;
+    font-size: 14px;
+  }
+
+  #generic_details{
+    margin-top: 0px;
+  }
+  #generic_desc{
+    font-size: 12px;
+  }
+
+}
+
+ /* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  padding: 10px 0px; 
+}
+.modal-close {
+  background-color: #fefefe;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 30px;
+  border: 1px solid #888;
+  width: 400px;
+  height: 300px;
+  border-radius: 20px;
+  background-color: #FFFFFF;
+  color: #000000;
+  text-align:center;
+  border-radius: 10px;
+  position: relative;
+  display: flex;/* Could be more or less, depending on screen size */
+  align-items: center;
+  justify-content: center;
+
+
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 450px;
+  height: 650px;
+  border-radius: 20px;
+  background-color: #FFFFFF;
+  color: #000000;
+  border-radius: 10px;
+  position: relative;
+  display: flex;/* Could be more or less, depending on screen size */
+  align-items: center;
+  justify-content: center;
+}
+
+/* The Close Button */
+.close{
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background: none;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
