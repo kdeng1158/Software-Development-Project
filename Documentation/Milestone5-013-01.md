@@ -1,7 +1,4 @@
-# Project Milestone 5 | Team 013-01: Budget Buddy
-
-## Team Members 
-Paige Burns, Kalvin Deng, Maria Garcia Fraile, Evan Ketellapper, John Le
+# Project Milestone 5
 
 ## Test Plan
 ### Feature 1: Create an Account
@@ -57,11 +54,7 @@ Paige Burns, Kalvin Deng, Maria Garcia Fraile, Evan Ketellapper, John Le
 > > - Once a user clicks on one of the resources, it will take them to the page of various resources to learn more about investment options.
 
 ## Individual Contributions
-> ### Paige Burns
-- Copied Lab 7 format of files into repo, transferred all html files to be ejs files, created base .get functions for each page in server.js file, and changed all references in each page to call .get functions instead of calling file name in the folder. 
-- Coded the Node.js for the Expenses page 
-- Created slide deck for in class presentation for Milestone 6.
-- [`Latest Commit`](https://github.com/cub-csci-3308-spring-2022/csci-3308-spring22-013-01/commit/aab78cf896ac28d47fddc61836876b5287ddf522)
+
 
 > ### Kalvin Deng
 - Assisted in getting our code to work with Docker after Paige converted all our files to match Lab 7.
@@ -70,24 +63,3 @@ Paige Burns, Kalvin Deng, Maria Garcia Fraile, Evan Ketellapper, John Le
 - Began writing the code for user authenticatin and verification for our final project.
 - Assist in developing test cases for this milestone.
 - Update Jira
-- [`Latest Commit`](https://github.com/cub-csci-3308-spring-2022/csci-3308-spring22-013-01/commit/e2cd6cc988477fdda28a11eac2305aa23dc33a71)
-
-> ### Maria Garcia Fraile
-- Modify architecture diaagram based on project 4 milestone
-- Began writing code for update profile page
-
-> ### Evan Ketellapper
-- Added API calls for the dashboard
-- Added income and expenses graph on the dashboard
-- updated the sql to include a finances table
-
-> ### John Le
-- Created and filled out the Milestone 5 markdown
-- Took TA meeting notes
-- Found resources for the Resource page
-- Worked on the Resources page
-- [`Latest Commit`](https://github.com/cub-csci-3308-spring-2022/csci-3308-spring22-013-01/commit/a514c41255153d8d2fa418b6a9c91de1f662b515)
-
-## Jira - Current Tasks at Hand
-<img width="1927" alt="Screen Shot 2022-04-10 at 8 29 35 PM" src="https://user-images.githubusercontent.com/77687981/162655074-6083ec0b-845b-4aba-9043-5504dee84f2f.png">
-
