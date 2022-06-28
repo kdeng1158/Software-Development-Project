@@ -1,8 +1,4 @@
-# Project Milestone 4 | Team 013-01  
-
-
-## Team Members 
-Paige Burns, Kalvin Deng, Maria Garcia Fraile, Evan Ketellapper, John Le
+# Project Milestone 4 
 
 ## Features List
 > ### Income and Cost Management
@@ -64,11 +60,6 @@ Paige Burns, Kalvin Deng, Maria Garcia Fraile, Evan Ketellapper, John Le
 
 
 ## Individual Contributions
-> ### Paige Burns
-- Worked on the overall design(HTML and CSS) of the website (e.g. fixed the wallet icon that wasn't loading before, changed colors and style of all buttons, took off "Forgot Password" on the Create Account page).
-- Added a simple Dashboard page to the website and linked all other pages to it so that we can easily add functionality later.
-- Added in the Web Service Design description for Milestone 4.
-- [`Lastest Commit`](https://github.com/cub-csci-3308-spring-2022/csci-3308-spring22-013-01/commit/03cab435654746d070b9e015d04e314407df4874)
 
 > ### Kalvin Deng
 - Facilitate Team Meetings
@@ -76,19 +67,3 @@ Paige Burns, Kalvin Deng, Maria Garcia Fraile, Evan Ketellapper, John Le
 - Help split up the work 
 - Work on login and create user account page
 - Added in the front end design pictures for milestone 4
-- [`Latest Commit`](https://github.com/cub-csci-3308-spring-2022/csci-3308-spring22-013-01/commit/0ba946aa187b58ed41bd87d9ea94824c602adc76)
-
-> ### Maria Garcia Fraile
-- Corrected version of Architecture Diagram
-- Corrected version of Database Design
-- [`Latest Commit`](https://github.com/cub-csci-3308-spring-2022/csci-3308-spring22-013-01/commit/343ef3754aced9eba78e83e437593edaa417734a)
-
-> ### Evan Ketellapper
-- Updated features list
-- [`Latest Commit`](https://github.com/cub-csci-3308-spring-2022/csci-3308-spring22-013-01/commit/8ae07a0a55ceae682dd73f86767549b7037e6d26)
-
-> ### John Le
-- Took notes for the TA meeting
-- Worked on 'Information' page but still have to make sure the sources are reliable
-- Filled in the 'Challenges' section for milestone 4
-- [`Latest Commit`](https://github.com/cub-csci-3308-spring-2022/csci-3308-spring22-013-01/commit/a0eb39324b94d050d8445f5d7a99df9d94430d4c)
