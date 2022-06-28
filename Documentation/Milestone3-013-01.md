@@ -1,8 +1,4 @@
-# Project Milestone 3 | Team 013-01  
-
-
-## Team Members 
-Paige Burns, Kalvin Deng, Maria Garcia Fraile, Evan Ketellapper, John Le
+# Project Milestone 3 
 
 ## What features were completed?
 > - The features that were completed were the front end (HTML) of the following pages:
@@ -36,32 +32,12 @@ Paige Burns, Kalvin Deng, Maria Garcia Fraile, Evan Ketellapper, John Le
 > - For the password, he said to just store it plain text for now and worry about encoding it later.
 > - He also suggested creating a db diagram then it will convert to what code we need
 
-## Individual contributions by each team member
-> ### Paige Burns
-- I coded the HTMl and CSS of the expenses page.
-- I coded the menu/navigation bar that everyone will use on their pages to ensure consistency.
-- I edited the designs of the other pages slightly to make everything look cohesive and clean.
-- [`Latest Code Commit`](https://github.com/cub-csci-3308-spring-2022/csci-3308-spring22-013-01/commit/4fc39e1a7e0180835293f6cf8df5f42212fdc3cf)
+## Individual contributions
 
 > ### Kalvin Deng
 - I have worked on creating the login page and create account page. 
 - I continued to help facilitate meetings and remind my teammates of our action items. 
 - I continued to maintain our milestone submissions by creating referral links and creating document outlines.
-- [`Latest code commit`](https://github.com/cub-csci-3308-spring-2022/csci-3308-spring22-013-01/commit/771abe775e61407bfc3729bdc64b06317d279b5a)
 
-> ### Maria Garcia Fraile
-- I coded the HTML, CSS and Javascript of the profile page
-- I did the relational model of our database
-- [`Lastest code commit`](https://github.com/cub-csci-3308-spring-2022/csci-3308-spring22-013-01/commit/8bee23d19926ed8fc2f887d8f58c7e9b98b1be40)
-
-> ### Evan Ketellapper
-- I coded the HTML of the predictions page
-- Started reorganizing much of our project to make adding new features easier
-- [`Latest code commit`](https://github.com/cub-csci-3308-spring-2022/csci-3308-spring22-013-01/commit/cc3953b797487057ec348832c54bd7b3d7fc0f1f)
-
-> ### John Le
-- I coded the HTML of the resources page and found one article for the demo.
-- I also took notes during our presentation and filled out the milestone 3 markdown.
-- [`Latest code commit`](https://github.com/cub-csci-3308-spring-2022/csci-3308-spring22-013-01/commit/b7c07c9a07c2994a62ad86f55852fb38a2910b3e)
 
 
