@@ -30,10 +30,9 @@ I created this website with 4 other teammates for our Software Development class
 ## Documentation / Project Milestones
 |  Name                     |  File          |
 | :--------------------------  | ------------ |
-| Milestone 1 | [`Project Proposal`](/milestonesubmissions/Milestone1-013-01.md)  |
-| Milestone 2 | [`Project Plan`](/milestonesubmissions/Milestone2-013-01.md)  |
-| Milestone 3 | [`Midterm Presentation`](/milestonesubmissions/Milestone3-013-01.md)  |
-| Milestone 4 | [`Application Architecture & Database Diagram`](/milestonesubmissions/Milestone4-013-01.md)  |
-| Milestone 5 | [`Test Plan`](/milestonesubmissions/Milestone5-013-01.md)  |
-| Milestone 6 | [`Project Presentation`](/milestonesubmissions/Milestone6-013-01.pdf)  |
-| Milestone 7 | [`Project Report`](/milestonesubmissions/Milestone7-013-01.md)  |
+| Milestone 1 | [`Project Proposal`](/Documentation/Project-Proposal.md)  |
+| Milestone 2 | [`Project Plan`](/Documentation/Project-Plan.md)  |
+| Milestone 3 | [`Midterm Presentation`](/Documentation/Presentation-Plan.md)  |
+| Milestone 4 | [`Application Architecture & Database Diagram`](/Documentation/Architechture-Plan.md)  |
+| Milestone 5 | [`Test Plan`](/Documentation/Test-Plan.md)  |
+| Milestone 6 | [`Project Report`](/Documentation/Project-Report.md)  |
