@@ -1,8 +1,5 @@
-# Project Milestone 2 | Team 013-01  
+# Project Milestone 2 
 
-
-## Team Members 
-Paige Burns, Kalvin Deng, Maria Garcia Fraile, Evan Ketellapper, John Le, Matt Riopelle
 ## Project Features List
 > ### Income and Cost Management
 > > The customer will be able to input, update, or create sources of income and costs. This feature allows the user to keep their budget report as accurate as possible. 
@@ -36,7 +33,7 @@ Paige Burns, Kalvin Deng, Maria Garcia Fraile, Evan Ketellapper, John Le, Matt R
 
 ## Project Plan
 > <img width="875" alt="Screen Shot 2022-02-17 at 6 27 50 PM" src="https://user-images.githubusercontent.com/70181301/154600039-cae7b92f-0419-411a-98f4-d8d29977f27b.png">
-We will be using JIRA in order to schedule our work for different componenrts of the website. Going to the website allows for a more in depth look into individual sprints: https://csci-3308-013-01.atlassian.net/jira/software/projects/M27/boards/1/roadmap?timeline=MONTHS
+We will be using JIRA in order to schedule our work for different componenrts of the website. 
 
 
 ## Wireframes & Designs
@@ -79,24 +76,12 @@ We will be using JIRA in order to schedule our work for different componenrts of
 <img width="655" alt="Screen Shot 2022-02-16 at 1 59 16 PM" src="https://user-images.githubusercontent.com/74786501/154356083-9ec05c87-363b-4131-befd-886e29aa2f10.png">
 
 
-## Indivisual Contributions
-### Paige Burns
-> Milestone 1 Contributions
-> > - I wrote the Application Description, Vision Statement, Version Control, and wrote 4 of the Use Cases ( https://github.com/cub-csci-3308-spring-2022/csci-3308-spring22-013-01/commits/main/milestonesubmissions/Milestone1-013-01.md ).
-> > - I also organized the github to have all of the required folders and make it easy to navigate.
->
-> Milestone 2 Contributions
-> > - I designed half of the wireframes on the Figma
-> > - I edited all frames on Figma to be a consistent design
->
->  Other Contributions:
-> > - I designed the logo, and added the color scheme and logo to our Project Resources folder on our github so that they can be used throughout our website.
-
+## Individual Contributions
 ### Kalvin Deng
 > Milestone 1 Contributions
 > 
 > > - I helped set up the outline of the markdown file. 
-> > - I also did half of the use case charts, and I made the diagram ( https://github.com/cub-csci-3308-spring-2022/csci-3308-spring22-013-01/commits/main/milestonesubmissions/Milestone1-013-01.md )
+> > - I also did half of the use case charts, and I made the diagram 
 > > I came up with a few extra ideas for use cases that my teammates could also use
 > 
 > Milestone 2 Contributions
@@ -108,40 +93,4 @@ We will be using JIRA in order to schedule our work for different componenrts of
 > > - I set up our recurring weekly meeting, and I send out reminders the day of. 
 > > - I usually communicate our to-do for the week and send them into our group chat.
 > > - I also helped take metting notes and divide up the work that we all needed to do
-
-### Maria Garcia Fraile
-> Milestone 1 contribution
-> > -I did the Architecture Diagram and list of technologies with Evan
-> 
-> Milestone 2 contribution
-> > -I designed half of the wireframes on the Figma
-### Evan Ketellapper
-> Milestone 1 contribution
-> > - Worked on Architecture Diagram
-
-> Milestone 2 contribution
-> > - Created 2 week sprints in JIRA
-> > - Assigned some of the user stories to sprints to create project plan
-
-### John Le
-> Milestone 1 Contributions
-> > - I wrote the Development Method, Communication Plan, and the Meeting Plan
-> > - Link to Milestone1 log: ( https://github.com/cub-csci-3308-spring-2022/csci-3308-spring22-013-01/commits/main/milestonesubmissions/Milestone1-013-01.md )
-> 
-> Milestone 2 Contributions
-> > - I wrote the Requirements sections while also created a few new user stories for the features
-> > - I also ranked the priorities of the user stories of the features
-> > - Link to Milestone2 log: ( https://github.com/cub-csci-3308-spring-2022/csci-3308-spring22-013-01/commits/main/milestonesubmissions/Milestone2-013-01.md )
-> 
-> Other Contributions
-> > - I took the notes for our TA meeting (Feb 17)
-### Matt Riopelle
-> Milestone One Contributuions:
-> I helped create 5 of the user stories
-> Milestone Two Contributions:
-> I helped create the project plan for the group, and added an epic for backend work in JIRA
-
-
-
-
 
