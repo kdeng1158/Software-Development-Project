@@ -1,4 +1,4 @@
-# Project Milestone 7 
+# Project Milestone 6
 
 ## Project Description
  Budget Buddy is aimed at helping college students and young professionals budget their life. This application will include several features, including a spending and income log and an educational element to teach the young audience about investing and other financial management tasks. 
