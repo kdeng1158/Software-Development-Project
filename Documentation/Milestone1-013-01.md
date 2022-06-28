@@ -1,10 +1,5 @@
-# Project Milestone 1 | Team 013-01  
+# Project Milestone 1 
 ## Application Name: Budget Buddy  
-
-
-## Team Members 
-Paige Burns, Kalvin Deng, Maria Garcia Fraile, Evan Ketellapper, John Le, Matt Riopelle
-
 
 ## Application Description
 Budget Buddy is aimed at helping college students and young professionals budget their life. This application will include several features, including a spending and income log, a savings predictor, and an educational element to teach the young audience about investing and other financial management tasks. 
@@ -18,14 +13,9 @@ The last feature of the application will be an educational feature. This part wi
 For college students and young professionals who need a way to track their finances and budget themselves, the Budget Buddy is a financial software application that allows users to log their spending and income to create a sustainable budget. The application will also include an educational section where users can find information on how to start investing and managing their finances. Unlike Intuit Mint, our product is geared towards a younger audience who are looking to learn about finances in addition to budgeting themselves.
 
 
-## Version Control
-https://github.com/cub-csci-3308-spring-2022/csci-3308-spring22-013-01.git 
-
-
 ## Development Method
 The software development methodology that our team will follow is going to be the agile methodology. By using this methodology, we separate our project up into multiple sprints and stages where we work on the components of our website. In between each stage, there will be a small prototype which can be tested. After each iteration, the website will be progressed further until we have a complete website which is the final product. Our goal is to create a website product with minimum core features. After the initial features are implemented and working, then we can start improving on the website by adding more features that encompasses our idea of  Budget Buddy.
 
-JIRA Board: https://csci-3308-013-01.atlassian.net/jira/software/projects/M27/boards/1 
 
 
 ## Communication Plan
@@ -36,7 +26,6 @@ Our primary method of communication is through a text message group chat, our te
 Team Meetings
  > - Days: Mondays
  > - Time: 6:30pm – 8:00pm
- > - Mode: Through Zoom Video Meeting https://cuboulder.zoom.us/j/91092135413
  > - Location: Zoom Virtual Meeting
 
 TA Meetings
