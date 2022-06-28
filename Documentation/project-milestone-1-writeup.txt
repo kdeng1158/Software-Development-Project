@@ -1,0 +1,40 @@
+Application Name: Budget Buddy
+
+
+Team Members:
+Paige Burns, Kalvin Deng, Maria Garci Fraile, Evan Ketellapper, John Le, Matt Riopelle
+
+
+Application Description:
+Budget Buddy is aimed at helping college students and young professionals budget their life. This application will include several features, including a spending and income log, a savings predictor, and an educational element to teach the young audience about investing and other financial management tasks. 
+
+Users will be able to easily log every expense they have into the software. They will be able to categorize their expenses to see where they spend the bulk of their money and where they might need to budget. They will also be able to log their income in the app to be able to notice if they are living above their means (spending more than they make) or not. There will be several visualization tools such as tables and graphs that will help users visualize their spending habits and detect patterns for where they could reduce their spending. Users will then be able to implement a budget goal within the application (ex. “I will spend $200 a month on groceries”) and track their expenses to stay below their set budget. Users will also be able to set budgets for different periods of time (i.e. per month, per year, per semester, for summer, etc.). Connected with the budget feature, there will be a savings predictor feature that allows users to see the amount of savings they will have if they stay within their newly set budget. This way, if a user has a certain savings goal, they will be able to set the correct budget to meet that goal.
+
+The last feature of the application will be an educational feature. This part will hold information on how users will be able to start using more financial management tools and smartly invest and save their money for their futures. This will include information on starting a user’s 401k, Roth IRA, investing in stocks, etc. There will be information in the application as well as links to other sites, tutorials, classes, and companies that can help users begin their financial journey. 
+
+
+Vision Statement:
+For college students and young professionals who need a way to track their finances and budget themselves, the Budget Buddy is a financial software application that allows users to log their spending and income to create a sustainable budget. The application will also include an educational section where users can find information on how to start investing and managing their finances. Unlike Intuit Mint, our product is geared towards a younger audience who are looking to learn about finances in addition to budgeting themselves.
+
+Version Control
+https://github.com/cub-csci-3308-spring-2022/csci-3308-spring22-013-01.git 
+
+
+Development Method:
+
+
+
+Communication Plan:
+
+
+
+Meeting Plan:
+
+
+Proposed Architecture Plan:
+
+
+
+Use Case Diagrams:
+
+
